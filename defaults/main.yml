@@ -1,1 +1,4 @@
 ---
+
+openldap_configdb_config_dn: "olcDatabase={0}config,cn=config"
+openldap_datadb_config_dn: "olcDatabase={1}hdb,cn=config"
